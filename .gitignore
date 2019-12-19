@@ -30,3 +30,6 @@ config/secrets.yml
 # Ignore carriarwave images
 public/uploads/*
 .env
+
+#.DS_Store
+.DS_Store
